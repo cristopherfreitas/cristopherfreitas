@@ -1,5 +1,7 @@
 ### Hi! I'm Cristopher Freitas! 👋
 
+![](https://komarev.com/ghpvc/?username=cristopherfreitas&color=green)
+
 I'm a software engineer from Brazil! 🇧🇷  
 Passionate by coding, science and sports.  
 Also my wife (love u sweety!) and my little dog, Frodo 🐶.  
